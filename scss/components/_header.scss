@@ -1,0 +1,21 @@
+@import '../components/colors';
+
+.menu {
+    padding: 71px 330px 92px 315px;
+    margin: 0 auto;
+    gap: 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__link {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+        &:focus {
+            color: map-get($colors, 'a-color-focus');
+        }
+    }
+}

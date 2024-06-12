@@ -1,0 +1,33 @@
+@import '../components/colors';
+
+body {
+    font-family: Playfair Display;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+h2 {
+    color: map-get($colors, 'p-h2-color');
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p {
+    color: map-get($colors, 'p-h2-color');
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: map-get($colors, 'a-color');
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

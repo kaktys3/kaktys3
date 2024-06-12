@@ -1,0 +1,85 @@
+/* :root {
+    --backdrop-text: #626262;
+    --backdrop-a: #7D7D7D;
+    --backdrop-a1: #03A9F4;
+}
+
+footer {
+    margin: 0 auto;
+    padding: 94px 15px 66px;
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner {
+    width: 906px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
+button {
+    padding: 20px 48px;
+}
+
+body {
+    font-family: Playfair Display;
+    flex-direction: column;
+}
+
+.nav {
+    padding: 71px 330px 92px 315px;
+    margin: 0 auto;
+    gap: 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo-set1 {
+    display: flex;
+    gap: 65px;
+}
+
+.photo-set2 {
+    display: flex;
+    gap: 66px;
+}
+
+.photo-set3 {
+    display: flex;
+    gap: 63px;
+}
+
+h2 {
+    color: var(--backdrop-text);
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p {
+    color: var(--backdrop-text);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: var(--backdrop-a);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nav_link {
+    color: var(--backdrop-a1);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+} */
